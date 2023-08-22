@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    border: 0;
+	text-align: center;
+	font-size: 40px;
+	text-decoration: none;
+	list-style: none;
+
+}
+img {
+    display: block;
+    width: 100%; 
+} 
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
+    grid-gap: 20px;
+    padding: 10%;
+  }
+.section_wrapper{
+width: 80%;
+margin: 0 auto;
+height: 100vh;
+display: flex;
+flex-direction: row;
+align-items: center;
+}
+.item1{
+    position: relative;
+}
+p {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+    top: 0;
+    left: 0;
+    position: absolute;
+    opacity: 0;
+    transition: 0.6s;
+    color: aliceblue;
+} 
+
+.item1:hover > p{
+    opacity: 1;
+}
+.item2{
+    position: relative;
+}
+p {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+    top: 0;
+    left: 0;
+    position: absolute;
+    opacity: 0;
+    transition: 0.6s;
+    color: aliceblue;
+}
+.item2:hover > p{
+    opacity: 1;
+}
+.item3{
+    position: relative;
+}
+ p{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+    top: 0;
+    left: 0;
+    position: absolute;
+    opacity: 0;
+    transition: 0.6s;
+    color: aliceblue;
+}
+.item3:hover > p{
+    opacity: 1;
+}
+.item4{
+    position: relative;
+}
+ p{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+    top: 0;
+    left: 0;
+    position: absolute;
+    opacity: 0;
+    transition: 0.6s;
+    color: aliceblue;
+}
+.item4:hover > p{
+    opacity: 1;
+}
+.item5{
+    position: relative;
+}
+ p{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+    top: 0;
+    left: 0;
+    position: absolute;
+    opacity: 0;
+    transition: 0.6s;
+    color: aliceblue;
+}
+.item5:hover > p{
+    opacity: 1;
+}
+.item6{
+    position: relative;
+}
+ p{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+    top: 0;
+    left: 0;
+    position: absolute;
+    opacity: 0;
+    transition: 0.6s;
+    color: aliceblue;
+}
+.item6:hover > p{
+    opacity: 1;
+}
+
+.item7{
+    position: relative;
+}
+ p{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+    top: 0;
+    left: 0;
+    position: absolute;
+    opacity: 0;
+    transition: 0.6s;
+    color: aliceblue;
+}
+.item7:hover > p{
+    opacity: 1;
+}
+.item8{
+    position: relative;
+}
+ p{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+    top: 0;
+    left: 0;
+    position: absolute;
+    opacity: 0;
+    transition: 0.6s;
+    color: aliceblue;
+}
+.item8:hover > p{
+    opacity: 1;
+}
+.item9{
+    position: relative;
+}
+ p{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+    top: 0;
+    left: 0;
+    position: absolute;
+    opacity: 0;
+    transition: 0.6s;
+    color: aliceblue;
+}
+.item9:hover > p{
+    opacity: 1;
+}
+.item10{
+    position: relative;
+}
+ p{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+    top: 0;
+    left: 0;
+    position: absolute;
+    opacity: 0;
+    transition: 0.6s;
+    color: aliceblue;
+}
+.item10:hover > p{
+    opacity: 1;
+}
